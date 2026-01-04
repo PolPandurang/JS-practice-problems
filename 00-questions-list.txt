@@ -1,0 +1,4 @@
+11.Search for a given element in an array.
+12.Reverse an array without using an extra array.
+13.Copy elements from one array to another.
+

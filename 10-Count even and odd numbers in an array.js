@@ -1,3 +1,4 @@
+// 10-Count even and odd numbers in an array
 
 let arr = [0,4,1,4,5,6,2,9];
 let even = 0;
